@@ -1,0 +1,26 @@
+c:\users\work\source\repos\SoftArchCW\SoftArchCW\bin\Debug\SoftArchCW.exe.config
+c:\users\work\source\repos\SoftArchCW\SoftArchCW\bin\Debug\SoftArchCW.exe
+c:\users\work\source\repos\SoftArchCW\SoftArchCW\bin\Debug\SoftArchCW.pdb
+c:\users\work\source\repos\SoftArchCW\SoftArchCW\bin\Debug\Google.Protobuf.dll
+c:\users\work\source\repos\SoftArchCW\SoftArchCW\bin\Debug\MySql.Data.dll
+c:\users\work\source\repos\SoftArchCW\SoftArchCW\bin\Debug\Google.Protobuf.xml
+c:\users\work\source\repos\SoftArchCW\SoftArchCW\bin\Debug\MySql.Data.xml
+c:\users\work\source\repos\SoftArchCW\SoftArchCW\obj\Debug\SoftArchCW.csprojAssemblyReference.cache
+c:\users\work\source\repos\SoftArchCW\SoftArchCW\obj\Debug\App.g.cs
+c:\users\work\source\repos\SoftArchCW\SoftArchCW\obj\Debug\SoftArchCW_MarkupCompile.cache
+c:\users\work\source\repos\SoftArchCW\SoftArchCW\obj\Debug\SoftArchCW_MarkupCompile.lref
+c:\users\work\source\repos\SoftArchCW\SoftArchCW\obj\Debug\SoftArchCW.g.resources
+c:\users\work\source\repos\SoftArchCW\SoftArchCW\obj\Debug\SoftArchCW.Properties.Resources.resources
+c:\users\work\source\repos\SoftArchCW\SoftArchCW\obj\Debug\SoftArchCW.csproj.GenerateResource.cache
+c:\users\work\source\repos\SoftArchCW\SoftArchCW\obj\Debug\SoftArchCW.csproj.CoreCompileInputs.cache
+c:\users\work\source\repos\SoftArchCW\SoftArchCW\obj\Debug\SoftArchCW.csproj.CopyComplete
+c:\users\work\source\repos\SoftArchCW\SoftArchCW\obj\Debug\SoftArchCW.exe
+c:\users\work\source\repos\SoftArchCW\SoftArchCW\obj\Debug\SoftArchCW.pdb
+C:\Users\Work\source\repos\SoftArchCW\SoftArchCW\obj\Debug\Presentation Layer\CallOutDetail.g.cs
+C:\Users\Work\source\repos\SoftArchCW\SoftArchCW\obj\Debug\Presentation Layer\LoginPage.g.cs
+C:\Users\Work\source\repos\SoftArchCW\SoftArchCW\obj\Debug\Presentation Layer\MainWindow.g.cs
+C:\Users\Work\source\repos\SoftArchCW\SoftArchCW\obj\Debug\Presentation Layer\Patient_Medical.g.cs
+C:\Users\Work\source\repos\SoftArchCW\SoftArchCW\obj\Debug\Presentation Layer\CallOutDetail.baml
+C:\Users\Work\source\repos\SoftArchCW\SoftArchCW\obj\Debug\Presentation Layer\LoginPage.baml
+C:\Users\Work\source\repos\SoftArchCW\SoftArchCW\obj\Debug\Presentation Layer\MainWindow.baml
+C:\Users\Work\source\repos\SoftArchCW\SoftArchCW\obj\Debug\Presentation Layer\Patient_Medical.baml

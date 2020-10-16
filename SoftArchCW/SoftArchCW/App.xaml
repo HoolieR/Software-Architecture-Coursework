@@ -1,0 +1,9 @@
+﻿<Application x:Class="SoftArchCW.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SoftArchCW"
+             StartupUri="Data Access and Presentation Layers/LoginPage.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

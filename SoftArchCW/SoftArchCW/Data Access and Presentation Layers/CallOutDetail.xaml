@@ -1,0 +1,23 @@
+﻿<Window x:Class="SoftArchCW.CallOutDetail"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SoftArchCW"
+        mc:Ignorable="d"
+        Title="CallOutDetail" Height="428.261" Width="567.391">
+    <Grid Margin="0,0,5,2.5">
+        <Button x:Name="button" Content="Add" HorizontalAlignment="Left" Margin="442,272,0,0" VerticalAlignment="Top" Width="98" Height="85" Click="Button_Click"/>
+        <Label x:Name="label" Content="Patient Name" HorizontalAlignment="Left" Margin="56,51,0,0" VerticalAlignment="Top" Height="32" Width="91"/>
+        <TextBox x:Name="patientName" HorizontalAlignment="Left" Height="37" Margin="172,46,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="257"/>
+        <Label x:Name="label1" Content="Patient Time" HorizontalAlignment="Left" Margin="56,103,0,0" VerticalAlignment="Top" Height="51" Width="100"/>
+        <Label x:Name="label2" Content="Patient Location" HorizontalAlignment="Left" Margin="55,154,0,0" VerticalAlignment="Top" Width="100" Height="44"/>
+        <Label x:Name="label3" Content="Time Spent on Call" HorizontalAlignment="Left" Margin="55,203,0,0" VerticalAlignment="Top" Width="133"/>
+        <Label x:Name="label4" Content="Action Taken" HorizontalAlignment="Left" Margin="56,250,0,0" VerticalAlignment="Top" Width="111"/>
+        <TextBox x:Name="patientTime" HorizontalAlignment="Left" Height="30" Margin="172,103,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="257"/>
+        <TextBox x:Name="patientLoc" HorizontalAlignment="Left" Height="30" Margin="172,158,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="257"/>
+        <TextBox x:Name="timeSpent" HorizontalAlignment="Left" Height="23" Margin="172,207,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="257"/>
+        <TextBox x:Name="actionTaken" HorizontalAlignment="Left" Height="121" Margin="172,254,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="257"/>
+
+    </Grid>
+</Window>
